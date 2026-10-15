@@ -40,5 +40,5 @@ This project is intended for learning and educational purposes.
 
 ### Main Page
 
-![React Cards Project Preview 1](./screenshots/image1.png)
-![React Cards Project Preview 2](./screenshots/image2.png)
+![React Cards Project Preview 1](./Screenshots/image1.png)
+![React Cards Project Preview 2](./Screenshots/image2.png)
